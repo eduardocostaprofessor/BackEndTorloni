@@ -1,0 +1,14 @@
+/Users/eduardocosta/Desktop/BackEndTorloni/exercicio22/bin/Debug/net9.0/exercicio22
+/Users/eduardocosta/Desktop/BackEndTorloni/exercicio22/bin/Debug/net9.0/exercicio22.deps.json
+/Users/eduardocosta/Desktop/BackEndTorloni/exercicio22/bin/Debug/net9.0/exercicio22.runtimeconfig.json
+/Users/eduardocosta/Desktop/BackEndTorloni/exercicio22/bin/Debug/net9.0/exercicio22.dll
+/Users/eduardocosta/Desktop/BackEndTorloni/exercicio22/bin/Debug/net9.0/exercicio22.pdb
+/Users/eduardocosta/Desktop/BackEndTorloni/exercicio22/obj/Debug/net9.0/exercicio22.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/BackEndTorloni/exercicio22/obj/Debug/net9.0/exercicio22.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/BackEndTorloni/exercicio22/obj/Debug/net9.0/exercicio22.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/BackEndTorloni/exercicio22/obj/Debug/net9.0/exercicio22.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/BackEndTorloni/exercicio22/obj/Debug/net9.0/exercicio22.dll
+/Users/eduardocosta/Desktop/BackEndTorloni/exercicio22/obj/Debug/net9.0/refint/exercicio22.dll
+/Users/eduardocosta/Desktop/BackEndTorloni/exercicio22/obj/Debug/net9.0/exercicio22.pdb
+/Users/eduardocosta/Desktop/BackEndTorloni/exercicio22/obj/Debug/net9.0/exercicio22.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/BackEndTorloni/exercicio22/obj/Debug/net9.0/ref/exercicio22.dll

@@ -1,0 +1,14 @@
+/Users/eduardocosta/Desktop/BackEndTorloni/exercicio16/bin/Debug/net9.0/exercicio16
+/Users/eduardocosta/Desktop/BackEndTorloni/exercicio16/bin/Debug/net9.0/exercicio16.deps.json
+/Users/eduardocosta/Desktop/BackEndTorloni/exercicio16/bin/Debug/net9.0/exercicio16.runtimeconfig.json
+/Users/eduardocosta/Desktop/BackEndTorloni/exercicio16/bin/Debug/net9.0/exercicio16.dll
+/Users/eduardocosta/Desktop/BackEndTorloni/exercicio16/bin/Debug/net9.0/exercicio16.pdb
+/Users/eduardocosta/Desktop/BackEndTorloni/exercicio16/obj/Debug/net9.0/exercicio16.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/BackEndTorloni/exercicio16/obj/Debug/net9.0/exercicio16.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/BackEndTorloni/exercicio16/obj/Debug/net9.0/exercicio16.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/BackEndTorloni/exercicio16/obj/Debug/net9.0/exercicio16.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/BackEndTorloni/exercicio16/obj/Debug/net9.0/exercicio16.dll
+/Users/eduardocosta/Desktop/BackEndTorloni/exercicio16/obj/Debug/net9.0/refint/exercicio16.dll
+/Users/eduardocosta/Desktop/BackEndTorloni/exercicio16/obj/Debug/net9.0/exercicio16.pdb
+/Users/eduardocosta/Desktop/BackEndTorloni/exercicio16/obj/Debug/net9.0/exercicio16.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/BackEndTorloni/exercicio16/obj/Debug/net9.0/ref/exercicio16.dll

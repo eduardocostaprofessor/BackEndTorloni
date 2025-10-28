@@ -1,0 +1,4 @@
+/Users/eduardocosta/Desktop/BackEndTorloni/Hello/obj/Debug/net9.0/Hello.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/BackEndTorloni/Hello/obj/Debug/net9.0/Hello.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/BackEndTorloni/Hello/obj/Debug/net9.0/Hello.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/BackEndTorloni/Hello/obj/Debug/net9.0/Hello.csproj.CoreCompileInputs.cache

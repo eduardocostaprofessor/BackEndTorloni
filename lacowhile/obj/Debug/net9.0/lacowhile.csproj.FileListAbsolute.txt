@@ -1,0 +1,14 @@
+/Users/eduardocosta/Desktop/BackEndTorloni/lacowhile/bin/Debug/net9.0/lacowhile
+/Users/eduardocosta/Desktop/BackEndTorloni/lacowhile/bin/Debug/net9.0/lacowhile.deps.json
+/Users/eduardocosta/Desktop/BackEndTorloni/lacowhile/bin/Debug/net9.0/lacowhile.runtimeconfig.json
+/Users/eduardocosta/Desktop/BackEndTorloni/lacowhile/bin/Debug/net9.0/lacowhile.dll
+/Users/eduardocosta/Desktop/BackEndTorloni/lacowhile/bin/Debug/net9.0/lacowhile.pdb
+/Users/eduardocosta/Desktop/BackEndTorloni/lacowhile/obj/Debug/net9.0/lacowhile.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/BackEndTorloni/lacowhile/obj/Debug/net9.0/lacowhile.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/BackEndTorloni/lacowhile/obj/Debug/net9.0/lacowhile.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/BackEndTorloni/lacowhile/obj/Debug/net9.0/lacowhile.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/BackEndTorloni/lacowhile/obj/Debug/net9.0/lacowhile.dll
+/Users/eduardocosta/Desktop/BackEndTorloni/lacowhile/obj/Debug/net9.0/refint/lacowhile.dll
+/Users/eduardocosta/Desktop/BackEndTorloni/lacowhile/obj/Debug/net9.0/lacowhile.pdb
+/Users/eduardocosta/Desktop/BackEndTorloni/lacowhile/obj/Debug/net9.0/lacowhile.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/BackEndTorloni/lacowhile/obj/Debug/net9.0/ref/lacowhile.dll

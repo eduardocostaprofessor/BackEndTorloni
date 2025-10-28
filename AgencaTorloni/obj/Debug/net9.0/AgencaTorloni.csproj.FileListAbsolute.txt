@@ -1,0 +1,14 @@
+/Users/eduardocosta/Desktop/BackEndTorloni/AgencaTorloni/bin/Debug/net9.0/AgencaTorloni
+/Users/eduardocosta/Desktop/BackEndTorloni/AgencaTorloni/bin/Debug/net9.0/AgencaTorloni.deps.json
+/Users/eduardocosta/Desktop/BackEndTorloni/AgencaTorloni/bin/Debug/net9.0/AgencaTorloni.runtimeconfig.json
+/Users/eduardocosta/Desktop/BackEndTorloni/AgencaTorloni/bin/Debug/net9.0/AgencaTorloni.dll
+/Users/eduardocosta/Desktop/BackEndTorloni/AgencaTorloni/bin/Debug/net9.0/AgencaTorloni.pdb
+/Users/eduardocosta/Desktop/BackEndTorloni/AgencaTorloni/obj/Debug/net9.0/AgencaTorloni.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/BackEndTorloni/AgencaTorloni/obj/Debug/net9.0/AgencaTorloni.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/BackEndTorloni/AgencaTorloni/obj/Debug/net9.0/AgencaTorloni.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/BackEndTorloni/AgencaTorloni/obj/Debug/net9.0/AgencaTorloni.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/BackEndTorloni/AgencaTorloni/obj/Debug/net9.0/AgencaTorloni.dll
+/Users/eduardocosta/Desktop/BackEndTorloni/AgencaTorloni/obj/Debug/net9.0/refint/AgencaTorloni.dll
+/Users/eduardocosta/Desktop/BackEndTorloni/AgencaTorloni/obj/Debug/net9.0/AgencaTorloni.pdb
+/Users/eduardocosta/Desktop/BackEndTorloni/AgencaTorloni/obj/Debug/net9.0/AgencaTorloni.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/BackEndTorloni/AgencaTorloni/obj/Debug/net9.0/ref/AgencaTorloni.dll

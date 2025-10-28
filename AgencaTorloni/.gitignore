@@ -1,0 +1,96 @@
+# =========================
+# CONFIGURAÇÃO BÁSICA .NET
+# =========================
+
+# Build results
+bin/
+obj/
+out/
+
+# Arquivos de publicação e temporários
+*.log
+*.tmp
+*.temp
+*.bak
+
+# Usuário e IDE
+.vscode/
+.vs/
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Arquivos de cache e lock
+*.lock.json
+project.lock.json
+
+# Pacotes NuGet
+packages/
+*.nupkg
+# Para não ignorar o arquivo de configuração
+!packages/build/
+.nuget/
+*.snupkg
+
+# Arquivos de build local
+TestResult*/
+[Bb]uild[Ll]og.*
+
+# Configurações locais (não compartilhar)
+appsettings.Development.json
+appsettings.Local.json
+
+# Arquivos de debug
+*.pdb
+*.mdb
+
+# Backup do Visual Studio
+*.dbmdl
+*.bak
+*.Backup
+*.Cache
+*.dbproj.schemaview
+
+# Sistema operacional
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Ferramentas específicas
+_ReSharper*/
+*.resharper
+*.DotSettings.user
+.idea/
+
+# Logs de cobertura e análise
+coverage*/
+*.coverage
+*.coveragexml
+
+# Arquivos de publish e deploy
+PublishProfiles/
+*.pubxml
+*.publishproj
+
+# Arquivos temporários de execução
+launchSettings.json
+
+# ==============================
+# IGNORAR EM TODOS OS SUBPROJETOS
+# ==============================
+# (Cada projeto console dentro da pasta raiz)
+*/bin/
+*/obj/
+*/out/
+*/.vs/
+*/.vscode/
+
+# =====================
+# OPÇÕES PERSONALIZADAS
+# =====================
+# (Se quiser manter apenas o código-fonte)
+# !**/*.cs
+# !**/*.csproj
+# !**/*.sln

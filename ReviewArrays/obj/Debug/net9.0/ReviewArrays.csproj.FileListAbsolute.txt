@@ -1,0 +1,14 @@
+/Users/eduardocosta/Desktop/BackEndTorloni/ReviewArrays/bin/Debug/net9.0/ReviewArrays
+/Users/eduardocosta/Desktop/BackEndTorloni/ReviewArrays/bin/Debug/net9.0/ReviewArrays.deps.json
+/Users/eduardocosta/Desktop/BackEndTorloni/ReviewArrays/bin/Debug/net9.0/ReviewArrays.runtimeconfig.json
+/Users/eduardocosta/Desktop/BackEndTorloni/ReviewArrays/bin/Debug/net9.0/ReviewArrays.dll
+/Users/eduardocosta/Desktop/BackEndTorloni/ReviewArrays/bin/Debug/net9.0/ReviewArrays.pdb
+/Users/eduardocosta/Desktop/BackEndTorloni/ReviewArrays/obj/Debug/net9.0/ReviewArrays.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/BackEndTorloni/ReviewArrays/obj/Debug/net9.0/ReviewArrays.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/BackEndTorloni/ReviewArrays/obj/Debug/net9.0/ReviewArrays.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/BackEndTorloni/ReviewArrays/obj/Debug/net9.0/ReviewArrays.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/BackEndTorloni/ReviewArrays/obj/Debug/net9.0/ReviewArrays.dll
+/Users/eduardocosta/Desktop/BackEndTorloni/ReviewArrays/obj/Debug/net9.0/refint/ReviewArrays.dll
+/Users/eduardocosta/Desktop/BackEndTorloni/ReviewArrays/obj/Debug/net9.0/ReviewArrays.pdb
+/Users/eduardocosta/Desktop/BackEndTorloni/ReviewArrays/obj/Debug/net9.0/ReviewArrays.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/BackEndTorloni/ReviewArrays/obj/Debug/net9.0/ref/ReviewArrays.dll
