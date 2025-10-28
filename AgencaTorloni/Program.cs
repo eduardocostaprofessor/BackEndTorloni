@@ -26,8 +26,6 @@ do
     {
         case 0:
             Console.WriteLine($"Saindo ...");
-            Console.WriteLine($"Clique em <Enter para continuar>");
-            Console.ReadLine();
             break;
 
         case 1:
@@ -36,21 +34,14 @@ do
 
         case 2:
             Depositar();
-            
-            Console.WriteLine($"Clique em <Enter para continuar>");
-            Console.ReadLine();
             break;
 
         case 3:
             Sacar();
-            Console.WriteLine($"Clique em <Enter para continuar>");
-            Console.ReadLine();
             break;
 
         case 4:
-            Console.WriteLine($"Função em Desenvolvimento");
-            Console.WriteLine($"Clique em <Enter para continuar>");
-            Console.ReadLine();
+            Transferir();
             break;
 
         case 5:
@@ -58,16 +49,16 @@ do
             break;
 
         default:
-            Console.WriteLine($"Opção inválida! Clique <Enter> para continur");
-            Console.ReadLine();
+            Console.WriteLine($"Opção Inválida");
             break;
 
     }//fim do switch
+
+    Console.WriteLine($"Clique em <Enter para continuar>");
+    Console.ReadLine();
 } while (opcao != 0);
 
-
-
-
+// Funções 
 void CadastratCliente()
 {
     //verificar se tem espaço no array para cadastrar
@@ -86,8 +77,8 @@ void CadastratCliente()
     Console.WriteLine($"Cliente cadastrado com sucesso");
     Console.WriteLine($"Pressione <Enter> para continuar ...");
     Console.ReadLine();
-    
-    
+
+
 }
 
 void ListarCliente()
@@ -100,9 +91,9 @@ void ListarCliente()
     for (int i = 0; i < totalClientes; i++)
     {
         Console.WriteLine($"{i} - {nomes[i]} | saldo: R$ {saldos[i]}");
-        
+
     }
-    
+
 
     Console.WriteLine($"Clique em <Enter para continuar>");
     Console.ReadLine();
@@ -115,7 +106,7 @@ void Depositar()
     {
         return;
     }
-    
+
     Console.Write($"Valor para depósito: ");
     double valorDeposito = double.Parse(Console.ReadLine());
     saldos[idCliente] += valorDeposito;
@@ -155,7 +146,8 @@ void Transferir()
         saldos[idClienteOrigem] -= valor;
         saldos[idClienteDestino] += valor;
         Console.WriteLine($"Transferência concluída!");
-    } else
+    }
+    else
     {//não tem saldo
         Console.WriteLine($"Saldo insuficiente!");
     }
@@ -181,11 +173,12 @@ void Sacar()
         // atualizar o saldo da conta - debita o dinheiro da conta do cliente
         saldos[idCliente] -= valorSolicitado;
         Console.WriteLine($"Saque realizado com sucesso!");
-    } else
+    }
+    else
     {
         Console.WriteLine($"Saldo insuficiente");
     }
-    
+
     Console.WriteLine($"Clique em <Enter para continuar>");
     Console.ReadLine();
 }
@@ -195,8 +188,8 @@ int BuscarCliente()
     ListarCliente();//desenha/exibe a lista de clientes
     Console.Write($"Digite o número do cliente: ");
     int idCliente = int.Parse(Console.ReadLine());//posição do array onde ele está
-    
-    if(idCliente < 0 || idCliente >= totalClientes)
+
+    if (idCliente < 0 || idCliente >= totalClientes)
     {
         Console.WriteLine($"Cliente não encontrado");
         return -1;//cliente não encontrado
