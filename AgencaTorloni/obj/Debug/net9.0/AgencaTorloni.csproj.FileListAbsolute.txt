@@ -12,3 +12,4 @@
 /Users/eduardocosta/Desktop/BackEndTorloni/AgencaTorloni/obj/Debug/net9.0/AgencaTorloni.pdb
 /Users/eduardocosta/Desktop/BackEndTorloni/AgencaTorloni/obj/Debug/net9.0/AgencaTorloni.genruntimeconfig.cache
 /Users/eduardocosta/Desktop/BackEndTorloni/AgencaTorloni/obj/Debug/net9.0/ref/AgencaTorloni.dll
+/Users/eduardocosta/Desktop/BackEndTorloni/AgencaTorloni/obj/Debug/net9.0/AgencaTorloni.sourcelink.json

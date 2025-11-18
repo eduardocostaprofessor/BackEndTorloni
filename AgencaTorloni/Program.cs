@@ -1,10 +1,8 @@
-﻿using System.Net.WebSockets;
-
-string[] nomes = new string[3];
+﻿string[] nomes = new string[3];
 double[] saldos = new double[3];
 int totalClientes = 0;
 
-int opcao = -1;//opção inválida
+int opcao;//opção inválida
 
 do
 {
@@ -56,6 +54,7 @@ do
 
     Console.WriteLine($"Clique em <Enter para continuar>");
     Console.ReadLine();
+    //Recomeça o menu caso a opção seja diferente de 0
 } while (opcao != 0);
 
 // Funções 
@@ -64,8 +63,6 @@ void CadastratCliente()
     //verificar se tem espaço no array para cadastrar
     if (totalClientes >= 3)
     {//não pode mais cadastrar
-        Console.WriteLine($"Limite de ocupação atingido");
-        Console.WriteLine($"Pressione <Enter> para continuar ...");
         return;
     }
 
@@ -75,10 +72,6 @@ void CadastratCliente()
     saldos[totalClientes] = 0;//inicia o saldo zerado
     totalClientes++;
     Console.WriteLine($"Cliente cadastrado com sucesso");
-    Console.WriteLine($"Pressione <Enter> para continuar ...");
-    Console.ReadLine();
-
-
 }
 
 void ListarCliente()
@@ -90,13 +83,8 @@ void ListarCliente()
     Console.WriteLine($"== LISTA DE CLIENTE");
     for (int i = 0; i < totalClientes; i++)
     {
-        Console.WriteLine($"{i} - {nomes[i]} | saldo: R$ {saldos[i]}");
-
+        Console.WriteLine($"{i} - {nomes[i]} | saldo: R$ {saldos[i]:F2}");//mostra somente duas casas decimais
     }
-
-
-    Console.WriteLine($"Clique em <Enter para continuar>");
-    Console.ReadLine();
 }
 
 void Depositar()
@@ -111,9 +99,6 @@ void Depositar()
     double valorDeposito = double.Parse(Console.ReadLine());
     saldos[idCliente] += valorDeposito;
     Console.WriteLine($"Depósito de R$ {valorDeposito} realizado!");
-
-    Console.WriteLine($"Clique em <Enter para continuar>");
-    Console.ReadLine();
 }
 
 void Transferir()
@@ -132,7 +117,7 @@ void Transferir()
         return;
     }
 
-    Console.WriteLine($"Conta de Origem: ");
+    Console.WriteLine($"Conta de Destino: ");
     int idClienteDestino = BuscarCliente();
     if (idClienteDestino == -1)
     {//não existe
@@ -178,9 +163,6 @@ void Sacar()
     {
         Console.WriteLine($"Saldo insuficiente");
     }
-
-    Console.WriteLine($"Clique em <Enter para continuar>");
-    Console.ReadLine();
 }
 
 int BuscarCliente()

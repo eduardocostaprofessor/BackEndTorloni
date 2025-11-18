@@ -1,0 +1,15 @@
+/Users/eduardocosta/Desktop/BackEndTorloni/POO/Pilares/TheBasics/bin/Debug/net9.0/TheBasics
+/Users/eduardocosta/Desktop/BackEndTorloni/POO/Pilares/TheBasics/bin/Debug/net9.0/TheBasics.deps.json
+/Users/eduardocosta/Desktop/BackEndTorloni/POO/Pilares/TheBasics/bin/Debug/net9.0/TheBasics.runtimeconfig.json
+/Users/eduardocosta/Desktop/BackEndTorloni/POO/Pilares/TheBasics/bin/Debug/net9.0/TheBasics.dll
+/Users/eduardocosta/Desktop/BackEndTorloni/POO/Pilares/TheBasics/bin/Debug/net9.0/TheBasics.pdb
+/Users/eduardocosta/Desktop/BackEndTorloni/POO/Pilares/TheBasics/obj/Debug/net9.0/TheBasics.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/BackEndTorloni/POO/Pilares/TheBasics/obj/Debug/net9.0/TheBasics.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/BackEndTorloni/POO/Pilares/TheBasics/obj/Debug/net9.0/TheBasics.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/BackEndTorloni/POO/Pilares/TheBasics/obj/Debug/net9.0/TheBasics.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/BackEndTorloni/POO/Pilares/TheBasics/obj/Debug/net9.0/TheBasics.sourcelink.json
+/Users/eduardocosta/Desktop/BackEndTorloni/POO/Pilares/TheBasics/obj/Debug/net9.0/TheBasics.dll
+/Users/eduardocosta/Desktop/BackEndTorloni/POO/Pilares/TheBasics/obj/Debug/net9.0/refint/TheBasics.dll
+/Users/eduardocosta/Desktop/BackEndTorloni/POO/Pilares/TheBasics/obj/Debug/net9.0/TheBasics.pdb
+/Users/eduardocosta/Desktop/BackEndTorloni/POO/Pilares/TheBasics/obj/Debug/net9.0/TheBasics.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/BackEndTorloni/POO/Pilares/TheBasics/obj/Debug/net9.0/ref/TheBasics.dll

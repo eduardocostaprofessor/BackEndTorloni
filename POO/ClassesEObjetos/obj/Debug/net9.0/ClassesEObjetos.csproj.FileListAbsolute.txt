@@ -1,0 +1,15 @@
+/Users/eduardocosta/Desktop/BackEndTorloni/POO/ClassesEObjetos/bin/Debug/net9.0/ClassesEObjetos
+/Users/eduardocosta/Desktop/BackEndTorloni/POO/ClassesEObjetos/bin/Debug/net9.0/ClassesEObjetos.deps.json
+/Users/eduardocosta/Desktop/BackEndTorloni/POO/ClassesEObjetos/bin/Debug/net9.0/ClassesEObjetos.runtimeconfig.json
+/Users/eduardocosta/Desktop/BackEndTorloni/POO/ClassesEObjetos/bin/Debug/net9.0/ClassesEObjetos.dll
+/Users/eduardocosta/Desktop/BackEndTorloni/POO/ClassesEObjetos/bin/Debug/net9.0/ClassesEObjetos.pdb
+/Users/eduardocosta/Desktop/BackEndTorloni/POO/ClassesEObjetos/obj/Debug/net9.0/ClassesEObjetos.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eduardocosta/Desktop/BackEndTorloni/POO/ClassesEObjetos/obj/Debug/net9.0/ClassesEObjetos.AssemblyInfoInputs.cache
+/Users/eduardocosta/Desktop/BackEndTorloni/POO/ClassesEObjetos/obj/Debug/net9.0/ClassesEObjetos.AssemblyInfo.cs
+/Users/eduardocosta/Desktop/BackEndTorloni/POO/ClassesEObjetos/obj/Debug/net9.0/ClassesEObjetos.csproj.CoreCompileInputs.cache
+/Users/eduardocosta/Desktop/BackEndTorloni/POO/ClassesEObjetos/obj/Debug/net9.0/ClassesEObjetos.sourcelink.json
+/Users/eduardocosta/Desktop/BackEndTorloni/POO/ClassesEObjetos/obj/Debug/net9.0/ClassesEObjetos.dll
+/Users/eduardocosta/Desktop/BackEndTorloni/POO/ClassesEObjetos/obj/Debug/net9.0/refint/ClassesEObjetos.dll
+/Users/eduardocosta/Desktop/BackEndTorloni/POO/ClassesEObjetos/obj/Debug/net9.0/ClassesEObjetos.pdb
+/Users/eduardocosta/Desktop/BackEndTorloni/POO/ClassesEObjetos/obj/Debug/net9.0/ClassesEObjetos.genruntimeconfig.cache
+/Users/eduardocosta/Desktop/BackEndTorloni/POO/ClassesEObjetos/obj/Debug/net9.0/ref/ClassesEObjetos.dll
