@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DevConnectTorloni")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+455f780cfc0c8366985f0f2d3691056cafb33b89")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8bdbff38b968c00afaf9eb3799d21594a1329025")]
 [assembly: System.Reflection.AssemblyProductAttribute("DevConnectTorloni")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DevConnectTorloni")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

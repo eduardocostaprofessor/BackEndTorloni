@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/eduardocosta/Desktop/BackEndMoura/MVC/DevConnectTorloni/DevConnectTorloni.csproj": {}
+    "/Users/eduardocosta/Desktop/BackEndTorloni/MVC/DevConnectTorloni/DevConnectTorloni.csproj": {}
   },
   "projects": {
-    "/Users/eduardocosta/Desktop/BackEndMoura/MVC/DevConnectTorloni/DevConnectTorloni.csproj": {
+    "/Users/eduardocosta/Desktop/BackEndTorloni/MVC/DevConnectTorloni/DevConnectTorloni.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/eduardocosta/Desktop/BackEndMoura/MVC/DevConnectTorloni/DevConnectTorloni.csproj",
+        "projectUniqueName": "/Users/eduardocosta/Desktop/BackEndTorloni/MVC/DevConnectTorloni/DevConnectTorloni.csproj",
         "projectName": "DevConnectTorloni",
-        "projectPath": "/Users/eduardocosta/Desktop/BackEndMoura/MVC/DevConnectTorloni/DevConnectTorloni.csproj",
+        "projectPath": "/Users/eduardocosta/Desktop/BackEndTorloni/MVC/DevConnectTorloni/DevConnectTorloni.csproj",
         "packagesPath": "/Users/eduardocosta/.nuget/packages/",
-        "outputPath": "/Users/eduardocosta/Desktop/BackEndMoura/MVC/DevConnectTorloni/obj/",
+        "outputPath": "/Users/eduardocosta/Desktop/BackEndTorloni/MVC/DevConnectTorloni/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/eduardocosta/.nuget/NuGet/NuGet.Config"

@@ -1,15 +1,20 @@
 using CadAlunoTorloni.Models;
 using Microsoft.AspNetCore.Mvc;
+using Microsoft.EntityFrameworkCore;
 
 namespace CadAlunoTorloni.Controllers
 {
     public class FrutasController : Controller
     {
         private readonly ILogger<FrutasController> _logger;
+        
+        // mesmo nome da context
+        public readonly CadAlunoTorloniContext _context;
 
-        public FrutasController(ILogger<FrutasController> logger)
+        public FrutasController(ILogger<FrutasController> logger, CadAlunoTorloniContext context)
         {
             _logger = logger;
+            _context = context;
         }
 
 
@@ -18,18 +23,19 @@ namespace CadAlunoTorloni.Controllers
         // Cítricas
         // Tropical
 
-        private static List<Fruta> frutas = new List<Fruta>
-        {
-            new Fruta{ Id = 1, Nome = "Maçã", Cor = "Vermelha", Categoria = "Tropical" },
-            new Fruta{ Id = 2, Nome = "Banana", Cor = "Amarela", Categoria = "Tropical" },
-            new Fruta{ Id = 3, Nome = "Uva", Cor = "Roxa", Categoria = "Tropical" },
-            new Fruta{ Id = 4, Nome = "Limão", Cor = "Verde", Categoria = "Cítrica" },
-            new Fruta{ Id = 5, Nome = "Abacaxi", Cor = "Roxa", Categoria = "Cítrica" },
-        };
+        // private static List<Fruta> frutas = new List<Fruta>
+        // {
+        //     new Fruta{ Id = 1, Nome = "Maçã", Cor = "Vermelha", Categoria = "Tropical" },
+        //     new Fruta{ Id = 2, Nome = "Banana", Cor = "Amarela", Categoria = "Tropical" },
+        //     new Fruta{ Id = 3, Nome = "Uva", Cor = "Roxa", Categoria = "Tropical" },
+        //     new Fruta{ Id = 4, Nome = "Limão", Cor = "Verde", Categoria = "Cítrica" },
+        //     new Fruta{ Id = 5, Nome = "Abacaxi", Cor = "Roxa", Categoria = "Cítrica" },
+        // };
 
 
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
+            var frutas = await _context.Fruta.ToListAsync();
             return View(frutas);
         }
 
@@ -46,9 +52,9 @@ namespace CadAlunoTorloni.Controllers
         public IActionResult Create(Fruta fruta)
         {
             //cria o próximo id
-            fruta.Id = frutas.Max(f => f.Id) + 1;
-            // salvar no array
-            frutas.Add(fruta);
+            // fruta.Id = frutas.Max(f => f.Id) + 1;
+            // // salvar no array
+            // frutas.Add(fruta);
             // redirecionar o usuário para a Index
             return RedirectToAction("Index");
         }
@@ -58,7 +64,7 @@ namespace CadAlunoTorloni.Controllers
 
         public IActionResult FrutasCitricas()
         {
-            return View(frutas);
+            return View();
         }
         
         public IActionResult FrutasTropicais()

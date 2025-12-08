@@ -1,7 +1,13 @@
+using CadAlunoTorloni.Models;
+// using Microsoft.EntityFrameworkCore;
+
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
-builder.Services.AddControllersWithViews();
+// Adiciona serviços ao container/aplicação
+builder.Services.AddControllersWithViews();//controlers
+
+builder.Services.AddDbContext<CadAlunoTorloniContext>();//models
 
 var app = builder.Build();
 
